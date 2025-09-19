@@ -2,7 +2,7 @@
   "TemplateId": "chrisProjectTemplate1",
   "SshUrl": "https://github.com/ChrisGilchrist/ChrisProjectTemplate1.git",
   "Branch": "main",
-  "Name": "Chris Project Template 2",
+  "Name": "Chris Project Template 1",
   "Description": "A randomly generated project descriptor for demonstration purposes.",
   "Tags": {
     "languages": [ "csharp", "typescript" ],
