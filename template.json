@@ -2,7 +2,7 @@
   "TemplateId": "stunning-garbanzo",
   "SshUrl": "https://github.com/luisquix/stunning-garbanzo.git",
   "Branch": "main",
-  "Name": "A not so stunning garbanzo",
+  "Name": "ChisProjectTemplate1",
   "Description": "A randomly generated project descriptor for demonstration purposes.",
   "Tags": {
     "languages": [ "csharp", "typescript" ],
