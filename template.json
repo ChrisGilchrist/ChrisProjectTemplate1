@@ -1,14 +1,14 @@
 {
-  "TemplateId": "chrisProjectTemplate1",
-  "SshUrl": "https://github.com/ChrisGilchrist/ChrisProjectTemplate1.git",
+  "TemplateId": "chrisProjectTemplate2",
+  "SshUrl": "https://github.com/ChrisGilchrist/ChrisProjectTemplate2.git",
   "Branch": "main",
-  "Name": "Chris Project Template 1",
+  "Name": "Chris Project Template 2",
   "Description": "A randomly generated project descriptor for demonstration purposes.",
   "Tags": {
     "languages": [ "csharp", "typescript" ],
     "category": [ "sample", "demo" ]
   },
-  "ImageFile": "test.png",
+  "ImageFile": "demo-image.png",
   "ReadmeFile": "README.md",
   "Published": true
 }
