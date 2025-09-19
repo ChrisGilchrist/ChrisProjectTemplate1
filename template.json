@@ -1,6 +1,6 @@
 {
-  "TemplateId": "chrisProjectTemplate2",
-  "SshUrl": "https://github.com/ChrisGilchrist/ChrisProjectTemplate2.git",
+  "TemplateId": "chrisProjectTemplate1",
+  "SshUrl": "https://github.com/ChrisGilchrist/ChrisProjectTemplate1.git",
   "Branch": "main",
   "Name": "Chris Project Template 2",
   "Description": "A randomly generated project descriptor for demonstration purposes.",
